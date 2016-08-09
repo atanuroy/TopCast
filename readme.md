@@ -28,5 +28,5 @@ Inputing an ID guarantees you that you'll find the personality you are searching
 
 ### How to find the ID
 
-The ID can be found by going to **[IMDB](http://www.imdb.com/)** and searching for your favorite personality. The urls for persons are of the format http://www.imdb.com/name/nm####### (Example **http://www.imdb.com/name/nm0000233 **). You are required to copy the **nm#######** part. See example below. 
+The ID can be found by going to **[IMDB](http://www.imdb.com/)** and searching for your favorite personality. The urls for persons are of the format http://www.imdb.com/name/nm####### (Example http://www.imdb.com/name/nm0000233). You are required to copy the **nm#######** part. See example below. 
 ![ID](Images/Tarantino.png)
